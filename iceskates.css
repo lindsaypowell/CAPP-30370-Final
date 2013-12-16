@@ -1,0 +1,41 @@
+html { background-image:url('wet_snow.png');
+	font-family:"Comic Sans MS";
+}
+
+#footer {
+   position:relative;
+   bottom:10px;
+   top:10px;
+   font-family:"Comic Sans MS";
+	font-size:16px;
+	color:#1E90FF;}
+
+h2 {font-family:"Comic Sans MS";
+	font-size:40px;
+	color:#1E90FF;
+	text-shadow: 3px 0px 5px rgba(150, 150, 255, 1);
+}
+
+h3 {font-family:"Comic Sans MS";
+	font-size:30px;
+	color:#660066;
+}
+
+nav li {font-family:"Comic Sans MS";
+	font-size:24px;
+	color:#1E90FF;
+	text-shadow: 3px 0px 5px rgba(150, 150, 255, 1);
+}
+
+nav ul {margin:0; padding:0; list-style:none;}
+      nav li {display:inline-block;}
+      nav li a {display:block; padding:1em; color:#868699; text-decoration:none; background-color:#E0E0FF;}
+      
+nav li a:hover {
+  background-color:#66FFCC;
+}      
+      
+
+img {height: 200px;
+	width:200px;
+}
